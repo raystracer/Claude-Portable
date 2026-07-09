@@ -1,2 +1,7 @@
 # Claude-Portable
-A portable Claude client that runs without installation and disappears when you delete it.
+
+<img src="./www/logo.png" alt="Logo" width="64"/>
+
+A portable Claude client that runs without installation or environment setup, and leaves nothing behind when you delete its folder.
+
+[Download](https://github.com/raystracer/RaysTracer/releases/tag/latest) |
