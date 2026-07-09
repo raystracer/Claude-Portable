@@ -4,4 +4,4 @@
 
 A portable Claude client that runs without installation or environment setup, and leaves nothing behind when you delete its folder.
 
-[Download](https://github.com/raystracer/RaysTracer/releases/tag/latest) |
+[Download](https://github.com/raystracer/Claude-Portable/releases/tag/latest) |
